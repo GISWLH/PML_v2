@@ -1,6 +1,6 @@
 # Penman-Monteith-Leuning Evapotranspiration In Google Earth Engine
 
-> 仅开源模型核心代码部分，其余部分转为闭源，如果合作需求，请私信。
+> 仅开源模型核心代码部分，其余部分转为闭源，如果合作需求，请联系孔老师。
 >
 > 请联系 https://github.com/kongdd
 
