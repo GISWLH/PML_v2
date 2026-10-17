@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![PML_v2 — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Penman-Monteith-Leuning Evapotranspiration In Google Earth Engine
 
 > 仅开源模型核心代码部分，其余部分转为闭源，如果合作需求，请联系孔老师。
@@ -125,3 +129,7 @@ Clip and export the regional data you need by the polygon shapefile you uploaded
 ## Acknowledgements
 
 Keep in mind that this repository is released under a GPL2 license, which permits commercial use but requires that the source code (of derivatives) is always open even if hosted as a web service.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
